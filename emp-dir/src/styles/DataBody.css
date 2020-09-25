@@ -1,0 +1,9 @@
+.name-cell {
+    background-color: rgb(163, 192, 255);
+    text-transform: capitalize;
+    
+}
+
+.align-middle {
+    font-weight: 75%;
+}
