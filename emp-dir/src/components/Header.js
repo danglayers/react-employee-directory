@@ -5,9 +5,10 @@ function Header () {
     return (
         <div className="header">
             <h1>Employee Directory</h1>
-            <p>Filter by heading or simply use the search box.</p>
+            <p>Click on any of the headings to sort by headings otherwise use the search bar to search by name.</p>
         </div>
     )
 }
 
 export default Header;
+
